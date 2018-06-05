@@ -1,0 +1,150 @@
+.contenedor_inicio{
+margin-top: 7%;
+}
+.columna_centro{
+	text-align: center;
+}
+.titulo{
+	font-size: 48px;
+	margin-top: 7%;
+	font-family: AbrilFatface;
+	color:#e0e0e0;
+}
+.index{
+	background-image: url(imagenes/cielo.jpg);
+}
+.control-label{
+	color:#e8e8e8;
+}
+/*estilos de pagina publicadores*/
+.publicadores{
+	color:#0a1c91;
+	margin-top: 5%;
+}
+.boton_asignar{
+	color:#fff;
+}
+.boton_asignar:hover{
+	color:black;
+}
+.boton_asignar2{
+	
+	color:#fff;
+}
+.boton_asignar3{
+	
+	background-color: #526a91;
+}
+.boton_asignar3:hover{
+	background-color: #cbdaf2;
+}
+.boton_asig{
+	color:#fff;
+}
+.bodypubli{
+	background-color: #f2f2f2;
+}
+/*estilos de asignacion de territorios*/
+.form-inline{
+margin-top: 10%;
+}
+.h1asig{
+	color:#a31a65;
+	margin-top:7%;
+	
+}
+.bodyasig{
+	background-color:#f2f2f2;
+}
+.volver{
+	text-align: right;
+	margin-top: 5%;
+}
+/*estilos de pagina de inicio*/
+.inicio{
+	text-align: center;
+	margin-top: 7%;
+}
+/*estilos del menu*/
+
+.menu{
+	background-color: #51617c;
+}
+/*territorios zona*/
+.zona{
+	color:#af0075;
+}
+/*territorios asignados*/
+.v{
+	color:#9ed1af;
+}
+/*territorios libres*/
+.x{
+	color:#ff9191;
+}
+/*crear publicador*/
+.form_crearpubli{
+	margin-top: 10%;
+}
+.crear_publi{
+	color:#5b5858;
+}
+/*lista territorios*/
+.estrella{
+	color:#ddc121;
+}
+/* publicadores territorios*/
+.cartera{
+	color:#996307;
+}
+.publi{
+	color:#4c081b;
+}
+/*boton asignar*/
+.asignar{
+	background-color: #55ccbe;
+	color:#fff;
+}
+.asignar:hover{
+	background-color: #58827d;
+	color:#fff;
+}
+.usuario{
+	color:#f44286;
+}
+/*div observaciones.php*/
+.observaciones{
+	background-color: #fff;
+}
+/*icono zona*/
+.iconozona{
+	color:#10e898;
+}
+.centrado{
+	text-align: center;
+	color:#f4426b;
+}
+.mensaje{
+	color:#f4426b;
+}
+.paginacion:hover{
+background-color: blue;
+color:#fff;
+padding:2%;
+}
+.num_terri{
+	font-size: 60px;
+	color:#f44274;
+}
+.buscador{
+	text-align: center;
+	margin-top: 0px;
+}
+.devuelta{
+	color:red;
+}
+.pdf{
+
+	background-color: #ebedf4;
+	color:#0c101c;
+}
